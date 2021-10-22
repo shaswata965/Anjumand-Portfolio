@@ -1,0 +1,23 @@
+.contact-thumbnail{
+    height: 20rem!important;
+}
+
+.contact-thumbnail img{
+    height: 14rem!important;
+    width: 14rem!important;
+    border-radius: 100%;
+    margin-top: 2rem!important;
+    border: 5px solid #32363b;
+}
+
+::-webkit-scrollbar{
+    width:2px;
+}
+
+::-webkit-scrollbar-track{
+    background-color: #212428;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
