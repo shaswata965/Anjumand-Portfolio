@@ -21,3 +21,31 @@
 ::-webkit-scrollbar-thumb {
     background: #888;
 }
+
+.modal-video{
+    width: 520px;
+}
+
+@media(max-width:730px) {
+    .modal-video{
+        width: 420px;
+    }
+}
+
+@media(max-width:500px) {
+    .modal-video{
+        width: 320px;
+    }
+}
+
+@media(max-width:450px) {
+    .modal-video{
+        width: 220px;
+    }
+}
+
+@media(max-width:330px) {
+    .modal-video{
+        width: 150px;
+    }
+}
